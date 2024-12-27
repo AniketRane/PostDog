@@ -1,0 +1,19 @@
+/* @import './base.css'; */
+
+/* .ant-select-selection-item{
+    padding-inline-end: 24px !important;
+} */
+
+.unicon {
+    display: inline-grid !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.editor-tabs .ant-tabs-tab-remove {
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+}
